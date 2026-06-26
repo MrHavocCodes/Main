@@ -1,0 +1,30 @@
+local Codes = {
+    "EASTEREXP",
+    "LIGHTNINGABUSE",
+    "1LOSTADMIN",
+    "KITT_RESET",
+    "Chandler",
+    "Sub2CaptainMaui",
+    "Enyu_is_Pro",
+    "Starcodeheo",
+    "Sub2Fer999",
+    "Magicbus",
+    "JCWK",
+    "kittgaming",
+    "Bluxxy",
+    "fudd10_v2",
+    "SUB2GAMERROBOT_EXP1",
+    "SUB2GAMERROBOT_RESET1",
+    "Sub2UncleKizaru",
+    "Axiore",
+    "Sub2Daigrock",
+    "Bignews",
+    "Sub2NoobMaster123",
+    "StrawHatMaine",
+    "TantaiGaming",
+    "TheGreatAce",
+    "Fudd10",
+    "Sub2OfficialNoobie"
+}
+
+return Codes
